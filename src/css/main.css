@@ -1,18 +1,18 @@
-@import "webfonts.css";
-@import "_style.css";
-@import "_header.css";
-@import "_footer.css";
-@import "_layout.css";
-@import "_homepage.css";
-@import "_legal.css";
-@import "_info.css";
-@import "_contact.css";
-@import "_vols_archive.css";
-@import "_vols_single.css";
-@import "_backoffice.css";
+@import "/src/css/webfonts.css";
+@import "/src/css/_style.css";
+@import "/src/css/_header.css";
+@import "/src/css/_footer.css";
+@import "/src/css/_layout.css";
+@import "/src/css/_homepage.css";
+@import "/src/css/_legal.css";
+@import "/src/css/_info.css";
+@import "/src/css/_contact.css";
+@import "/src/css/_vols_archive.css";
+@import "/src/css/_vols_single.css";
+@import "/src/css/_backoffice.css";
 
+@import "/src/css/responsive/responsive.css";
 
-@import "responsive/responsive.css";
 
 
 
